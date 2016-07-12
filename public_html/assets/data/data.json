@@ -1,0 +1,55 @@
+{
+  "Data": [
+{
+  "series":"series1",
+  "data":[
+      {
+          "label":"label1",
+          "value":500   
+      },
+      {
+          "label":"label2",
+          "value":400
+      },
+      {
+          "label":"label3",
+          "value":300
+      },
+      {
+          "label":"label4",
+          "value":450
+      },
+      {
+          "label":"label5",
+          "value":420
+      }
+  ]  
+},
+{
+    "series":"series2",
+    "data":[
+              {
+          "label":"label1",
+          "value":300   
+      },
+      {
+          "label":"label2",
+          "value":200
+      },
+      {
+          "label":"label3",
+          "value":100
+      },
+      {
+          "label":"label4",
+          "value":50
+      },
+       {
+          "label":"label5",
+          "value":120
+      }
+    ]
+}
+
+  ]
+}

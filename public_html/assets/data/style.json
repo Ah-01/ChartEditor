@@ -1,0 +1,81 @@
+{
+    "Axis": {
+        "valueAxis": {
+            "color": "#000000",
+            "fontSize": "11",
+            "showAxis": true,
+            "strokeColor": "#999999",
+            "weight": "1",
+            "tittle":"salary"
+        },
+        "categoryAxis": {
+            "color": "#000000",
+            "fontSize": "11",
+            "showAxis": true,
+            "strokeColor": "#999999",
+            "weight": "1",
+            "tittle":"Name"
+        }
+    },
+    "SeriesStyles": {
+        "0": {
+            "name": "series1",
+            "color": "#00FF00"
+        },
+        "1": {
+            "name": "series2",
+            "color": "#0000FF"
+        }
+    },
+
+    "legendStyles": {
+        "fontFamily": "Arial",
+        "fontSize": "11",
+        "fontStyle": "normal",
+        "fontWeight": "normal"
+    },
+    "chartingAreaStyle": {
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "borderThickness": "0",
+        "chartComponentHeight": 500,
+        "chartComponentIsVisible": true,
+        "chartComponentPositionX": 600,
+        "chartComponentPositionY": 100,
+        "chartComponentWidth": 700
+    },
+    "gridStyle": {
+        "hLineStrokecolor": "#cccccc",
+        "hLineThickness": "1",
+        "isGridlineVisible": true,
+        "vLineStrokecolor": "#cccccc",
+        "vLineThickness": "1"
+
+    },
+        "legendStyles": {
+            "fontFamily": "Arial",
+            "fontSize": "11",
+            "fontStyle": "normal",
+            "fontWeight": "normal"
+        },
+        "chartingAreaStyle": {
+            "backgroundColor": "#ffffff",
+            "borderColor": "#000000",
+            "borderThickness": "0",
+            "chartComponentHeight": 500,
+            "chartComponentIsVisible": true,
+            "chartComponentPositionX": 550,
+            "chartComponentPositionY": 50,
+            "chartComponentWidth": 700
+        },
+        "gridStyle": {
+            "hLineStrokecolor": "#cccccc",
+            "hLineThickness": "1",
+            "isGridlineVisible": true,
+            "vLineStrokecolor": "#cccccc",
+            "vLineThickness": "1"
+
+        }
+        
+
+}
